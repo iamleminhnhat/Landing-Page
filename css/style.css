@@ -257,6 +257,11 @@ h5 {
     box-shadow: 0 4px 30px rgb(63 65 67 / 60%);
 }
 
+.social-item .linkedin {
+    background: linear-gradient(45deg, #1c7ca8, #24a1dd);
+    box-shadow: 0 4px 30px rgb(63 65 67 / 60%);
+}
+
 .social-item .instagram {
     background: linear-gradient(
         45deg,
